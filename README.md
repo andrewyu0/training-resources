@@ -1,5 +1,9 @@
 # training-resources
 
+key actionable takeaways from [twitter spaces w nous 7/27](https://twitter.com/yacineMTB/status/1684577539141033984)
+
+ai tools/flow: otter transcript of the twitter spaces -> claude summary, chat -> bing resources
+
 1.  Start by finding a specific task and iteratively train models till you solve it - fastest way to gain intuition
 
     -   [How to Train a Large Language Model: A Practical Guide](https://dzone.com/articles/custom-training-of-large-language-models-a-compreh) - This blog post provides a step-by-step guide on how to train a large language model from scratch, with tips and tricks on data preparation, model architecture, training configuration, and evaluation.
